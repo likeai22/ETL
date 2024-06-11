@@ -159,14 +159,14 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 .idea/
 
-Lesson 1/les/
-Lesson 2/les/
-Lesson 3/les/
-Lesson 4/les/
-Lesson 5/les/
-Lesson 6/les/
-Lesson 7/les/
-Lesson 8/les/
+lesson_1/les/
+lesson_2/les/
+lesson_3/les/
+lesson_4/les/
+lesson_5/les/
+lesson_6/les/
+lesson_7/les/
+lesson_8/les/
 *[.avi, .mov, .mk4, .mkv]
 *[.bmp, .jpeg, .jpg, .png]
 *[.doc, .txt, .bin, .json, .csv]
