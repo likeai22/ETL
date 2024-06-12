@@ -168,7 +168,7 @@ lesson_6/les/
 lesson_7/les/
 lesson_8/les/
 *[.avi, .mov, .mk4, .mkv]
-*[.bmp, .jpeg, .jpg, .png]
+#*[.bmp, .jpeg, .jpg, .png]
 *[.doc, .txt, .bin, .json, .csv]
 
 /dir_crt.py
