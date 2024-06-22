@@ -19,6 +19,8 @@
 
 - в процессе
 
+![](.hw_1_images/ddaee50f.png)
+
 ![](.hw_1_images/db14cb9b.png)
 
 ![](.hw_1_images/d4538bb2.png)
